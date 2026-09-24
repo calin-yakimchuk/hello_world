@@ -1,2 +1,1 @@
-Hello World
-branch demo
+message: Test branch message text
